@@ -1,0 +1,6 @@
+__pycache__/
+DATA/processes/**
+object-detection-1.ipynb
+object-detection-2.ipynb
+object-tracking.ipynb
+a.ipynb
