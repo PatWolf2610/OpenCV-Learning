@@ -1,5 +1,5 @@
 __pycache__/
-DATA/proccessed/**
+/DATA/*/proccessed/**
 object-detection-1.ipynb
 object-detection-2.ipynb
 object-tracking.ipynb
